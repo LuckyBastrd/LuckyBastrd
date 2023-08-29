@@ -15,11 +15,6 @@ I'm currently an undergraduate student pursuing a degree in Computer Science at 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafikhairunizham/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rafi-khairunizham-2a8597253/) 
 
-<br><br><br><br>
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=luckybastrd&icon=2&color=12)](https://visitcount.itsvg.in)
 
