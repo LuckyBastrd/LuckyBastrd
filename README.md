@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Muhammad Rafi Khairunizham
 I'm currently an undergraduate student pursuing a degree in Computer Science at Binus University. My journey in the world of technology has just begun, and I'm excited to share my passion for coding and problem-solving.<br><br>🌟 Passion and Collaboration: What I love most about coding is its ability to bring people together to solve complex problems. I'm driven by the power of collaboration and the endless possibilities that technology offers.<br>🌍 Connecting and Growing: I'm eager to connect with fellow software engineers from around the world. Let's exchange ideas, share experiences, and learn together.<br>🌱 Continuous Learning: My approach to growth is simple: stay curious. Technology evolves rapidly, and I'm committed to staying updated and embracing new tools and trends.<br>📸 Hobbies: When I'm not coding, you'll likely find me behind a camera, capturing moments through photography and videography. The art of storytelling through visuals fascinates me.
 
-# 📊 GitHub Stats: 
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luckybastrd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luckybastrd&theme=dark&hide_border=false)<br><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luckybastrd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
