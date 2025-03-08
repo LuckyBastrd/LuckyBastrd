@@ -15,9 +15,9 @@
 
 <hr>
 
-<h4>🔭  I’m currently working with ...</h4>
+### 🔭 **Currently Working With...**
 
-<h5>iOS Developer</h5>
+**🛠 iOS Development Stack:**
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
@@ -26,10 +26,10 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-
 <hr>
 
-<p align='right'>
-<h4>💬  Sometimes I like to write things here...</h4>
-  <a href="https://medium.com/@rafi.khairunizham"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+### 💬 **I Sometimes Write About Tech...**  
+Check out my articles on Medium:  
+<p align='left'>
+  <a href="https://medium.com/@rafi.khairunizham"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
