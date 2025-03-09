@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SwiftData-FF9500?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;&nbsp;
 </p>
